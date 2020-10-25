@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Split Bill</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="enter_a_number1" tools:ignore="DuplicateDefinition">Enter a Number</string>
+    <string name="enter_the_number_of_persons">Enter the Number of Persons</string>
+    <string name="enter_the_number_of_items">Enter the Number of items</string>
+    <string name="result">Result</string>
+    <string name="button">Button</string>
+    <string name="next">NEXT</string>
+    <string name="enter_name">enter name</string>
+    <string name="next1">NEXT</string>
+    <string name="exit">Exit</string>
+    <string name="splitbill">splitbill</string>
+    <string name="discount_in">Discount in %</string>
+    <string name="tax_in_rs">Tax in Rs</string>
+    <string-array name="num_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
